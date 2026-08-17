@@ -40,3 +40,4 @@ core_fraction задаёт базовую гарантированную про�
 
 # Задание 6
 
+![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-17%20162229.png)
