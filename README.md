@@ -27,6 +27,8 @@ core_fraction задаёт базовую гарантированную про�
 
 ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-17%20155035.png)
 
+![2](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-17%20163706.png)
+
 
 # Задание 4
 
