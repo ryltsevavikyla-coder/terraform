@@ -31,3 +31,12 @@ core_fraction задаёт базовую гарантированную про�
 # Задание 4
 
 ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-17%20160253.png)
+
+
+# Задание 5
+
+![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-17%20161422.png)
+
+
+# Задание 6
+
