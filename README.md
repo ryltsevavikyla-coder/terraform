@@ -14,7 +14,7 @@
 
 result = uIDN0DGeoN7atmjS
 
-
+![3](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20151709.png)
 
 
 
