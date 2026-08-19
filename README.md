@@ -1,11 +1,18 @@
 # Введение в Terraform
 # Задание 1
 
+### 1.1
+ 
+ ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20151009.png)
+ 
 ### 1.2
 Согласно файлу .gitignore, личную и секретную информацию (логины, пароли, ключи, токены и т.д.) допустимо сохранять в файле terraform.tfvars.Этот файл не указан в правилах игнорирования, в отличие от personal.auto.tfvars и *.tfstate.
 
+### 1.3
 
+В state-файле секретное содержимое ресурса random_password находится в ключе:
 
+result = uIDN0DGeoN7atmjS
 
 
 
