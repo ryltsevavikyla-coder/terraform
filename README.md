@@ -25,6 +25,9 @@ result = uIDN0DGeoN7atmjS
 Имя ресурса контейнера начиналось с цифры ("1nginx"), что запрещено правилами Terraform.
 Имя ресурса должно начинаться с буквы или подчёркивания.
 
+![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20152431.png)
+![2](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20152439.png)
+
 
 
 
