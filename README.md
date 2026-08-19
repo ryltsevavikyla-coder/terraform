@@ -16,6 +16,15 @@ result = uIDN0DGeoN7atmjS
 
 ![3](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20151709.png)
 
+### 1.4
+В раскомментированном блоке были допущены две намеренные ошибки:
+
+У ресурса docker_image отсутствовало имя ресурса (второй label).
+Было: resource "docker_image" {
+Нужно: resource "docker_image" "nginx" {
+Имя ресурса контейнера начиналось с цифры ("1nginx"), что запрещено правилами Terraform.
+Имя ресурса должно начинаться с буквы или подчёркивания.
+
 
 
 
