@@ -28,7 +28,9 @@ result = uIDN0DGeoN7atmjS
 ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20152431.png)
 ![2](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20152439.png)
 
+### 1.5
 
+![5](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20153706.png)
 
 
 
