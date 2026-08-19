@@ -32,7 +32,9 @@ result = uIDN0DGeoN7atmjS
 
 ![5](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20153706.png)
 
+### 1.6
 
+![6](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20155015.png)
 
 
 
