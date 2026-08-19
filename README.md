@@ -42,6 +42,7 @@ result = uIDN0DGeoN7atmjS
 
 
 
+
 # Основы работы с Terraform
 
 # Задание 1
