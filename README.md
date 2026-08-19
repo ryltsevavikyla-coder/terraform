@@ -44,8 +44,11 @@ result = uIDN0DGeoN7atmjS
 
 ![7](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-19%20155933.png)
 
+### 1.8
 
+Образ nginx:latest не был удалён, потому что в ресурсе docker_image указан параметр keep_locally = true. Согласно документации провайдера Docker: «If true, then the Docker image won't be deleted on destroy operation».
 
+---
 # Основы работы с Terraform
 
 # Задание 1
