@@ -7,7 +7,9 @@
 
 ![2](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20124005.png)
 
+# Задание 3
 
+![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20124552.png)
 
 
 # Введение в Terraform
