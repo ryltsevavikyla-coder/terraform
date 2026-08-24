@@ -1,5 +1,8 @@
 # Домашнее задание к занятию «Управляющие конструкции в коде Terraform»
 
+# Все файлы по этому уроку лежат здесь: 
+https://github.com/ryltsevavikyla-coder/terraform/tree/terraform-03
+
 # Задание 1
 ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20122759.png)
 
