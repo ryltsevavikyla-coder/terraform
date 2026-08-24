@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «Управляющие конструкции в коде Terraform»
 
 # Задание 1
-
+![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20122759.png)
 
 # Введение в Terraform
 # Задание 1
