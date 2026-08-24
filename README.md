@@ -3,6 +3,13 @@
 # Задание 1
 ![1](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20122759.png)
 
+# Задание 2
+
+![2](https://github.com/ryltsevavikyla-coder/terraform/blob/main/Screenshot%202026-08-24%20124005.png)
+
+
+
+
 # Введение в Terraform
 # Задание 1
 
